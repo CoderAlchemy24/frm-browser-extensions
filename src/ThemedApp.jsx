@@ -7,7 +7,7 @@ import './App.css'
 import { clsx } from 'clsx';
 
 
-const data_url = '/json/data.json';
+const data_url = './json/data.json';
 
 const ThemedApp = () => {
   const [filter, setFilter] = useState('all');  // 'all' | 'active' | 'inactive'

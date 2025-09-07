@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/CoderAlchemy24/frm-browser-extensions.git](https://github.com/CoderAlchemy24/frm-browser-extensions.git)
+- Live Site URL: [https://harmonious-conkies-39c7db.netlify.app/](https://harmonious-conkies-39c7db.netlify.app/)
 
 ## My process
 
