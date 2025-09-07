@@ -1,0 +1,17 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+:root{
+
+    --color-gradient-1: linear-gradient(180deg, #EBF2FC 0%, #EEFBF9 100%);
+    --color-gradient-2: linear-gradient(180deg, #04091B 0%, #091540 100%);
+
+
+   
+   
+}
